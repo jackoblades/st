@@ -32,6 +32,8 @@ See the man page for additional details.
 Patches
 -------
 * Alpha
+* Clipboard (with middle-click copy)
+* Scrollback (keyboard and mouse shortcuts)
 
 
 Credits
