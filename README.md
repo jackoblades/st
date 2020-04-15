@@ -34,6 +34,7 @@ Patches
 * Alpha
 * Clipboard (with middle-click copy)
 * Scrollback (keyboard and mouse shortcuts)
+* Xresources support
 
 
 Credits
